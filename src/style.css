@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #3f4d5a;
+    --secondary-color: #CE1C5C;
+}
+
+button {
+    @apply bg-primary-color rounded-full text-white px-6 py-3
+}
