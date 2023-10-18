@@ -28,9 +28,30 @@ Practising Vue js
 
 ![Picture!](app-img/Home1.png)
 
+##
+![Picture!](app-img/artist1.png)
+
+##
+![Picture!](app-img/artist2.png)
+
+##
+
+
+##
+
 ![Picture!](app-img/Home2.png)
 
+##
+
 ![Picture!](app-img/Header2.png)
+
+
+##
+![Picture!](app-img/artist11.png)
+
+##
+![Picture!](app-img/artist22.png)
+
 
 
 
