@@ -16,3 +16,22 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
    1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
    2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+
+
+# Aesthetics website clone
+Practising Vue js
+
+<!-- To see the app live, you can run:  [Cloud App](https://daniatou.github.io/Cloud-App/). -->
+
+
+# Pictures
+
+![Picture!](app-img/Home1.PNG)
+
+![Picture!](app-img/Home2.PNG)
+
+![Picture!](app-img/Header2.PNG)
+
+
+
+

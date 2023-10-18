@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="relative">
-            <n-carousel autoplay >
+            <n-carousel autoplay  >
                 <div class=" xl:h-[700px] h-[500px] flex justify-center items-center">
                     <img class="w-[400px]" src="../assets/hero1.webp" alt="">
                     <div class="animate__animated animate__backInRight first-circle "></div>
