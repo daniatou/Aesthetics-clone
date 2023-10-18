@@ -26,11 +26,11 @@ Practising Vue js
 
 # Pictures
 
-![Picture!](app-img/Home1.PNG)
+![Picture!](app-img/Home1.png)
 
-![Picture!](app-img/Home2.PNG)
+![Picture!](app-img/Home2.png)
 
-![Picture!](app-img/Header2.PNG)
+![Picture!](app-img/Header2.png)
 
 
 
